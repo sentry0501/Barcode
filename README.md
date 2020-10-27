@@ -1,10 +1,10 @@
 # Barcode
 
-# Required:
+## Required:
 	Python3
 	Nodejs
 	
-# QuickStart:
+## QuickStart:
 Step 1:
 	- Clone this repo, Tai thu muc repo:
 
@@ -15,10 +15,17 @@ Step 1:
 		$ sudo apt-get install libzbar0
 		- Sau do tao moi truong ao, chay cmd:
 		$pip3 install -r requirement.txt
-Step 2:Run cmd
+             
+Step 2:Run cmd:
+
 	$ cd model/
+        
 	$ python app.py
+
+
 Step 3: Chay reactjs:
+
 	Tai thu muc goc cua repo:
+        
 	$ npm install
 	$ npm start
